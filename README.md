@@ -42,10 +42,13 @@ python car_renter.py
 User enters:
 Name
 Age
+
 Driving license status
 System checks eligibility:
 Must be 18+
+
 Must have a valid license
+
 User selects:
 Car company
 Model
