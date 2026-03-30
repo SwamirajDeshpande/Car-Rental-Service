@@ -5,15 +5,20 @@ Car Rental Service is a simple Python-based console application that allows user
 
 ## ✨ Features
 ✅ User eligibility check (Age & Driving License)
+
 🚘 Multiple car brands:
 BMW
 Tesla
 Mercedes
+
 📋 Displays available models with:
 Rent per day
 Security deposit
+
 💰 Budget-based filtering
+
 🔄 Suggests alternative cars within budget
+
 🧾 Generates final bill
 
 ## 🛠️ Technologies Used
