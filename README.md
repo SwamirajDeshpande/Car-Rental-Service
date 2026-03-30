@@ -22,6 +22,7 @@ Console-based input/output
 
 ## 📂 Project Structure
 car_renter.py   # Main application file
+
 README.md       # Project documentation
 
 ## ▶️ How to Run
@@ -49,6 +50,7 @@ Total Price = (Rent × Days) + Deposit
 Budget Check:
 If within budget → Show bill
 If not → Suggest alternatives
+
 ## 📊 Sample Output
 Welcome Swamiraj,
 
