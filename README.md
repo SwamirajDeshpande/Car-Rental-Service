@@ -27,7 +27,9 @@ README.md       # Project documentation
 
 ## ▶️ How to Run
 Make sure Python is installed (Python 3.x recommended)
+
 Download or clone the project
+
 Run the file:
 python car_renter.py
 
@@ -65,9 +67,13 @@ Final Bill:
 Total Price: ₹7200
 ## 🚀 Future Improvements
 GUI using Tkinter
+
 Database integration
+
 Online booking system
+
 Payment gateway integration
+
 Admin dashboard
 ## 👨‍💻 Author
 
