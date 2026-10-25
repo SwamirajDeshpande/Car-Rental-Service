@@ -1,4 +1,4 @@
-# 🚗  Car Rental System
+# 🚗 The Car Rental System
 
 A console-based **Car Rental System developed using Python** that allows eligible customers to explore available luxury cars, select a model, calculate rental costs, and find alternative vehicles that fit their budget.
 
